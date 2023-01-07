@@ -1,30 +1,6 @@
 <br>
-<p align="center">
-   
-   <a href="">
-        <img src="https://img.shields.io/badge/Case%20Study-Machine%20Learning-orange"></a>
-   <a href="">
-        <img src="https://img.shields.io/badge/Product-%20Job%20Search%20Engine-yellow"></a>
-  
-  <a href="">
-        <img src="https://img.shields.io/badge/-Success%20Metrics-ff69b4"></a>
-  <a href="">
-        <img src="https://img.shields.io/badge/-%20KFold%20Cross%20Validation-green"></a>
-  <a href="">
-        <img src="https://img.shields.io/badge/Programming-Python-blue"></a>
-  
-  <a href="">
-        <img src="https://img.shields.io/badge/-Feature%20Imprtance%20-yellowgreen"></a>
-  
-  
-  
-</p>
 <br>
-
-
-
 #### Predicting Salaries of Job Applications for Job Search Engine Indeed using Machine Learning with Python Implementation
-
 
 We will use range of Machine Learning Models (Lasso Regression, Random Forest, GBM, XGBoost) to estimate the salaries for given job postings and compare to select the best performing model. 
 
@@ -37,13 +13,8 @@ We will use range of Machine Learning Models (Lasso Regression, Random Forest, G
 
 <br><br>
 **Data** <a href="https://github.com/TatevKaren/Predicting-Jop-Postings-Salary/tree/main/Data"> here</a>
-
-**Medium Blog Post** <a href="https://medium.com/@tatev-aslanyan/data-science-case-study-predicting-salaries-of-job-postings-e1cbb4e83054"> here</a>
-
 <br><br>
-
 <br>
-
 ## Training Machine Learning Model 
 Here is the step-by-step approach for training Machine Learning Model
 
